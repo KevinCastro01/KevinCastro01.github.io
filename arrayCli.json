@@ -1,0 +1,4 @@
+[{ "firstname": "Mauricio", "lastname": "Sevilla" , "documentoPersona": "11111", "celpersona": "300000000"},
+{ "firstname": "Jorge",  "lastname": "Barón", "documentoPersona": "22222",  "celpersona": "300000000" },
+{ "firstname": "Andrés",  "lastname": "Espinoza", "documentoPersona": "33333",  "celpersona": "300000000" },
+{ "firstname": "Rafael",  "lastname": "Pérez" , "documentoPersona":"44444",  "celpersona": "300000000"}]
