@@ -1,0 +1,12 @@
+body {
+    background-color: #f4f6f8;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+#resultadoCard {
+    border-left: 6px solid #0d6efd;
+}
+``
